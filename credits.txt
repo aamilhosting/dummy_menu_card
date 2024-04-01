@@ -1,0 +1,36 @@
+Resto is a highly flexible free Html5 & CSS3 template for the food delivery business. It comes with a light background in the hero header area that makes your images and content stand out with a clean and minimal look. Resto is 100% responsive and looks great on every device, whether a small smartphone screen or a large desktop screen. All the features and functions of this HTML5 template give it a sophisticated appearance. This responsive website template is an excellent option for anyone looking to establish a food delivery business.
+
+Free HTML5 food delivery Website Template
+Besides, it encompasses lots of features and assets like a hero header with image, on hover effect, call to action button, social media linkup icons, footer navigation, and many more. Resto can be a great option to begin your project.
+
+Key Features
+HTML5 and CSS3
+Hero Header
+100% responsive
+Cross browser compatibility
+Single page website
+On hover effects
+Call to action button
+Footer navigation
+Fontawesome
+
+In the box
+1 HTML Pages
+All demo images
+All HTML & CSS files
+Javascript source files
+
+Libraries & Plugins
+Fontawesome
+Swiperjs
+
+Assets used in this website.
+»Pexels: https://www.pexels.com/
+»Unsplash: https://unsplash.com/
+»Freepik: https://www.freepik.com/
+
+All the resources are used in this project are free for PERSONAL and COMMERCIAL use. 
+Some of the resource requireq attribution (images downloaded from https://www.freepik.com/, https://www.flaticon.com/)
+Enjoy.
+
+Thank you for downloading Resto.
